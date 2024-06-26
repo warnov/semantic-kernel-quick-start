@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "yd8x+7F6EqI=",
+  "success": true,
+  "projectFilePath": "D:\\src\\dotnet\\semantic-kernel-quick-start\\SemanticKernelQuickStart.ConsoleApp\\SemanticKernelQuickStart.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "D:\\pkg\\nuget\\packages\\azure.ai.openai\\1.0.0-beta.17\\azure.ai.openai.1.0.0-beta.17.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\azure.core\\1.39.0\\azure.core.1.39.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\microsoft.semantickernel\\1.15.0\\microsoft.semantickernel.1.15.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\microsoft.semantickernel.abstractions\\1.15.0\\microsoft.semantickernel.abstractions.1.15.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\microsoft.semantickernel.connectors.openai\\1.15.0\\microsoft.semantickernel.connectors.openai.1.15.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\microsoft.semantickernel.core\\1.15.0\\microsoft.semantickernel.core.1.15.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\system.text.json\\8.0.2\\system.text.json.8.0.2.nupkg.sha512",
+    "D:\\pkg\\nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
